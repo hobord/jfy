@@ -1,0 +1,22 @@
+{
+  "name": "jfy",
+  "description": "Yust Food You bower components",
+  "main": "",
+  "authors": [
+    "Balazs Szabo <balazs.szabo@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.7"
+  }
+}
